@@ -5,10 +5,11 @@
   <div class="section no-pad-bot">
     <div class="container">
       <br><br>
-      <h4 class="header center text-lighten-2">Kenya's preferred property market</h4>
+      <h3 class="header center">Kenya's preferred property market</h3>
       <div class="row center">
         <div class="row">
           <div class="col s12">
+       
             <ul class="tabs main-color">
               <li class="tab col s3"><a href="#test1" class="active white-text">House</a></li>
               <li class="tab col s3"><a  href="#test2" class="white-text">Land</a></li>
